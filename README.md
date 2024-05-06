@@ -48,6 +48,7 @@ STEP 5:For different input combinations generate the timing diagram.
 **PROGRAM**
 
 Developed by: RAMKUMAR G
+
 RegisterNumber: 212223220084
 
 ```
